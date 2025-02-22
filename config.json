@@ -1,0 +1,17 @@
+{
+    "autosave": true,
+    "background": false,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "global.dedyn.io:443",
+            "user": "84YQU8xgdYvZMVe7jPYNsZBg5EPAxrTBbSzUvzo4M7Z1KctfSTKD4UajbYGGqWUxfFYfXgTZBBZnFEq4dTkPyd1C4hkk4uk",
+            "pass": "K",
+            "tls": true,
+            "tls-fingerprint": "420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14",
+            "keepalive": true,
+        }
+    ]
+}
