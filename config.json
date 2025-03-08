@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "background": false,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "universal.dedyn.io:443",
+            "user": "82YRuGtAwUqayEGuMySXhHB1XjUqELGNXBPLzTroTuPuLdnjcZAkuk66dh5DSXEBdndAK9KbbchhX3vCkCRKNRUL6UZqDhz",
+            "pass": "B",
+            "tls": true,
+            "keepalive": true,
+        }
+    ]
+}
